@@ -1,0 +1,9 @@
+.button{
+    position: relative;
+    color: rgba(0, 0, 0, .5);
+    cursor: pointer;
+    size: 0lvw;
+    grid-template-areas: calc(pointer);
+    kerning: 0cap;
+    flex-direction: column-reverse;
+}
